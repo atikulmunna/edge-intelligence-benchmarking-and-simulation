@@ -1,0 +1,8 @@
+[
+  "Return a JSON object representing a student's name, ID, and a list of three course grades.",
+  "Create a nested JSON describing a book (title, author, year, publisher, and tags).",
+  "Write a JSON schema for a REST API response with user info and status field.",
+  "Return a JSON object describing a computer with nested specs (CPU, RAM, storage).",
+  "Convert this table to JSON: Name|Age|Country -> Alice|24|UK, Bob|27|USA.",
+  "Return a JSON example for a product inventory with at least two items."
+]

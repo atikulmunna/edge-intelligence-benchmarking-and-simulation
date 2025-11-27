@@ -1,0 +1,18 @@
+{
+  "file": "outputs.csv",
+  "total": 6,
+  "correct": 6,
+  "accuracy_percent": 100.0,
+  "per_category": {
+    "general": {
+      "accuracy_percent": 100.0,
+      "correct": 4,
+      "total": 4
+    },
+    "math": {
+      "accuracy_percent": 100.0,
+      "correct": 2,
+      "total": 2
+    }
+  }
+}

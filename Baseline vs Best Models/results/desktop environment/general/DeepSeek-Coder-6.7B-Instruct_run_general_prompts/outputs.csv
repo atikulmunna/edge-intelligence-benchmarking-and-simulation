@@ -1,0 +1,32 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 02:40:43,Explain the process of photosynthesis in simple terms.,"Explain the process of photosynthesis in simple terms.
+
+
+Photosynthesis is the process by which plants convert light energy into chemical energy, or carbon dioxide and water, through the process",1.26,12864.63,52,100,True
+2025-11-18 02:40:44,Describe the importance of open-source software.,"Describe the importance of open-source software.
+
+
+Open-source software is a type of software that is developed and distributed by a community of developers. It is often free to use, modify,",0.85,12864.63,52,67,True
+2025-11-18 02:40:45,Summarize the causes of World War II in two sentences.,"Summarize the causes of World War II in two sentences.
+
+
+Answer:
+The causes of World War II were primarily due to the actions of Germany, Japan, Italy, and Austria-Hungary",0.86,12864.63,53,94,True
+2025-11-18 02:40:46,List three benefits of daily exercise.,"List three benefits of daily exercise.
+
+
+A: You can use the following code to achieve this:
+
+```python
+import nltk
+from nltk.corp",0.84,12864.63,53,94,True
+2025-11-18 02:40:47,Explain why the sky appears blue.,"Explain why the sky appears blue.
+
+
+The sky appears blue because of the scattering of light by the atmosphere. The blue light is scattered more than the red and green light. The more",0.94,12864.63,53,93,True
+2025-11-18 02:40:48,What is the role of machine learning in modern technology?,"What is the role of machine learning in modern technology?
+
+
+Machine learning is a crucial part of modern technology. It is used in a variety of applications, including:
+
+1. Predictive Analysis",0.99,12864.63,53,76,True

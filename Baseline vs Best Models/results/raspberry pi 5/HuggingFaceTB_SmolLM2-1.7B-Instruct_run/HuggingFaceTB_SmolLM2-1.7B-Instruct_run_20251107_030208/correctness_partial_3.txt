@@ -1,0 +1,10 @@
+=== Correctness Report ===
+File: /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208/outputs.csv
+Total prompts: 3
+Correct responses: 3
+Overall accuracy: 100.0%
+
+Per-category breakdown:
+ - General   : 100.0% (3/3)
+
+✅ Summary saved to: /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208/correctness_summary.json

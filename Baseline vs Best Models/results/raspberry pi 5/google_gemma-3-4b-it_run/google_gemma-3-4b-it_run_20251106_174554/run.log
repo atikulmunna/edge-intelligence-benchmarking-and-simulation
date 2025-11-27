@@ -1,0 +1,35 @@
+[2025-11-06 17:45:54] 🚀 BigBoss baseline runner
+[2025-11-06 17:45:54] Model: google/gemma-3-4b-it
+[2025-11-06 17:45:54] Prompts: /home/munna/bigboss_baselines/configs/math_prompts.json
+[2025-11-06 17:45:54] Offload dir: /home/munna/bigboss_baselines/model_offload_baselines_ext4/gemma3_4b
+[2025-11-06 17:45:54] Results root: /home/munna/bigboss_baselines/results
+[2025-11-06 17:45:54] Tokens per prompt: 12
+[2025-11-06 17:45:54] Ensuring model cached locally (snapshot_download)...
+[2025-11-06 17:45:54] ✅ Model cached at: /home/munna/.cache/huggingface/hub/models--google--gemma-3-4b-it/snapshots/093f9f388b31de276ce2de164bdc2081324b9767
+[2025-11-06 17:45:54] Loading tokenizer...
+[2025-11-06 17:45:57] ✅ Tokenizer loaded.
+[2025-11-06 17:45:57] Loading model (attempting offload-safe load)...
+[2025-11-06 17:48:10] ✅ Model loaded with device_map=auto + offload_folder.
+[2025-11-06 17:48:11] Starting run: 6 prompts × 12 tokens each
+[2025-11-06 18:47:18] [1/6] (3546.5s) Temp=51.6°C | RAM=47.8% | SWAP=44.4%
+[2025-11-06 18:47:18] ↳ Simplify the expression (2x^2 - 3x + 1) + (4x^2 + 2x - 5).  To simplify the expression (2x^2 - ...
+[2025-11-06 19:49:09] [2/6] (3708.5s) Temp=49.9°C | RAM=50.0% | SWAP=43.4%
+[2025-11-06 19:49:09] ↳ Find the derivative of f(x) = x^3 + 2x^2 - 5x + 7.  To find the derivative of f(x) = x...
+[2025-11-06 19:49:09] 💾 Backup saved (2): /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554/backups/backup_2.zip
+[2025-11-06 20:48:15] [3/6] (3543.4s) Temp=49.4°C | RAM=50.1% | SWAP=43.8%
+[2025-11-06 20:48:15] ↳ Integrate 2x * cos(x) with respect to x.  To integrate 2x * cos(x) with...
+[2025-11-06 20:48:15] 🧩 Partial correctness written: /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554/correctness_partial_3.txt
+[2025-11-06 21:47:22] [4/6] (3544.1s) Temp=49.4°C | RAM=48.1% | SWAP=43.8%
+[2025-11-06 21:47:22] ↳ A train travels 60 km/h for 1.5 hours, then 90 km/h for 2 hours. Find total distance.  Let $d_1$ be the distance traveled at...
+[2025-11-06 21:47:22] 💾 Backup saved (4): /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554/backups/backup_4.zip
+[2025-11-06 22:47:03] [5/6] (3578.3s) Temp=49.9°C | RAM=48.8% | SWAP=43.7%
+[2025-11-06 22:47:03] ↳ If log_a(27)=3 and log_a(9)=2, find a.  We are given that $\log_a(27...
+[2025-11-06 23:47:39] [6/6] (3633.9s) Temp=47.2°C | RAM=49.3% | SWAP=44.0%
+[2025-11-06 23:47:39] ↳ Solve for x: 3x + 2 = 17.  Subtract 2 from both sides: 3x +...
+[2025-11-06 23:47:40] 💾 Backup saved (6): /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554/backups/backup_6.zip
+[2025-11-06 23:47:40] 🧩 Partial correctness written: /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554/correctness_partial_6.txt
+[2025-11-06 23:47:42] 
+🏁 Benchmark complete.
+[2025-11-06 23:47:42] Results saved to: /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554
+[2025-11-06 23:47:42] Average latency: 3592.46s per prompt
+[2025-11-06 23:47:42] ✅ Final correctness report saved.

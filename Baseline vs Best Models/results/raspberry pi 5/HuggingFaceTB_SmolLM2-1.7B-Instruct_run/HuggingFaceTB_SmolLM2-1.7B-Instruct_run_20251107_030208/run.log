@@ -1,0 +1,35 @@
+[2025-11-07 03:02:08] 🚀 BigBoss baseline runner
+[2025-11-07 03:02:08] Model: HuggingFaceTB/SmolLM2-1.7B-Instruct
+[2025-11-07 03:02:08] Prompts: /home/munna/bigboss_baselines/configs/general_prompts.json
+[2025-11-07 03:02:08] Offload dir: /home/munna/bigboss_baselines/model_offload_baselines_ext4/smollm2_1p7b
+[2025-11-07 03:02:08] Results root: /home/munna/bigboss_baselines/results
+[2025-11-07 03:02:08] Tokens per prompt: 12
+[2025-11-07 03:02:08] Ensuring model cached locally (snapshot_download)...
+[2025-11-07 03:02:08] ✅ Model cached at: /home/munna/.cache/huggingface/hub/models--HuggingFaceTB--SmolLM2-1.7B-Instruct/snapshots/31b70e2e869a7173562077fd711b654946d38674
+[2025-11-07 03:02:08] Loading tokenizer...
+[2025-11-07 03:02:08] ✅ Tokenizer loaded.
+[2025-11-07 03:02:08] Loading model (attempting offload-safe load)...
+[2025-11-07 03:03:10] ✅ Model loaded with device_map=auto + offload_folder.
+[2025-11-07 03:03:11] Starting run: 6 prompts × 12 tokens each
+[2025-11-07 03:03:32] [1/6] (20.4s) Temp=54.3°C | RAM=88.9% | SWAP=7.5%
+[2025-11-07 03:03:32] ↳ Explain the process of photosynthesis in simple terms....
+[2025-11-07 03:03:38] [2/6] (5.4s) Temp=53.8°C | RAM=90.9% | SWAP=7.1%
+[2025-11-07 03:03:38] ↳ Describe the importance of open-source software....
+[2025-11-07 03:03:38] 💾 Backup saved (2): /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208/backups/backup_2.zip
+[2025-11-07 03:03:43] [3/6] (5.2s) Temp=55.4°C | RAM=91.5% | SWAP=7.1%
+[2025-11-07 03:03:43] ↳ Summarize the causes of World War II in two sentences....
+[2025-11-07 03:03:43] 🧩 Partial correctness written: /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208/correctness_partial_3.txt
+[2025-11-07 03:03:49] [4/6] (5.2s) Temp=56.5°C | RAM=91.6% | SWAP=7.1%
+[2025-11-07 03:03:49] ↳ List three benefits of daily exercise....
+[2025-11-07 03:03:49] 💾 Backup saved (4): /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208/backups/backup_4.zip
+[2025-11-07 03:03:54] [5/6] (5.1s) Temp=56.0°C | RAM=92.4% | SWAP=7.1%
+[2025-11-07 03:03:54] ↳ Explain why the sky appears blue....
+[2025-11-07 03:03:59] [6/6] (5.0s) Temp=57.1°C | RAM=91.3% | SWAP=7.1%
+[2025-11-07 03:03:59] ↳ What is the role of machine learning in modern technology?...
+[2025-11-07 03:03:59] 💾 Backup saved (6): /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208/backups/backup_6.zip
+[2025-11-07 03:03:59] 🧩 Partial correctness written: /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208/correctness_partial_6.txt
+[2025-11-07 03:03:59] 
+🏁 Benchmark complete.
+[2025-11-07 03:03:59] Results saved to: /home/munna/bigboss_baselines/results/HuggingFaceTB_SmolLM2-1.7B-Instruct_run_20251107_030208
+[2025-11-07 03:03:59] Average latency: 7.71s per prompt
+[2025-11-07 03:03:59] ✅ Final correctness report saved.

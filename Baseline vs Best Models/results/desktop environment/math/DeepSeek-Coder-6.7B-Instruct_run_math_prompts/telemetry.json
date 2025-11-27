@@ -1,0 +1,38 @@
+[
+  {
+    "vram_used_mb": 12864.63,
+    "vram_total_mb": 16375.5,
+    "gpu_util": 100,
+    "temp_c": 50
+  },
+  {
+    "vram_used_mb": 12864.63,
+    "vram_total_mb": 16375.5,
+    "gpu_util": 81,
+    "temp_c": 50
+  },
+  {
+    "vram_used_mb": 12864.63,
+    "vram_total_mb": 16375.5,
+    "gpu_util": 52,
+    "temp_c": 50
+  },
+  {
+    "vram_used_mb": 12864.64,
+    "vram_total_mb": 16375.5,
+    "gpu_util": 46,
+    "temp_c": 51
+  },
+  {
+    "vram_used_mb": 12864.63,
+    "vram_total_mb": 16375.5,
+    "gpu_util": 79,
+    "temp_c": 52
+  },
+  {
+    "vram_used_mb": 12864.63,
+    "vram_total_mb": 16375.5,
+    "gpu_util": 52,
+    "temp_c": 52
+  }
+]

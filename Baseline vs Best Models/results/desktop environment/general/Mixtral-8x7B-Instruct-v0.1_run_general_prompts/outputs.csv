@@ -1,0 +1,19 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 02:46:51,Explain the process of photosynthesis in simple terms.,"Explain the process of photosynthesis in simple terms.
+
+Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy, usually from the sun, into",296.05,8562.36,46,32,True
+2025-11-18 02:51:21,Describe the importance of open-source software.,"Describe the importance of open-source software.
+
+Open-source software is a type of software whose source code is available to the public, allowing anyone to view, modify, and distribute it. This",269.77,8562.36,46,33,True
+2025-11-18 02:55:48,Summarize the causes of World War II in two sentences.,"Summarize the causes of World War II in two sentences.
+
+World War II was caused by aggressive expansionist policies of Nazi Germany under Adolf Hitler, and by the appeasement policy of Britain and France,",267.12,8562.36,46,35,True
+2025-11-18 03:00:12,List three benefits of daily exercise.,"List three benefits of daily exercise.
+
+1. Improved cardiovascular health: Regular exercise strengthens the heart and improves circulation, reducing the risk of heart disease and high blood pressure",263.19,8562.36,46,25,True
+2025-11-18 03:04:38,Explain why the sky appears blue.,"Explain why the sky appears blue.
+
+The sky appears blue because of a phenomenon called Rayleigh scattering. As sunlight passes through the Earth's atmosphere, it interacts with molecules",265.26,8562.36,45,24,True
+2025-11-18 03:09:06,What is the role of machine learning in modern technology?,"What is the role of machine learning in modern technology?
+
+Machine learning is a subset of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. It",268.63,8562.36,45,34,True

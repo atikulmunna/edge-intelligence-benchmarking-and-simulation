@@ -1,0 +1,7 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18T02:00:45.254852,"Return a JSON object representing a student's name, ID, and a list of three course grades.",,0.57,,,,False
+2025-11-18T02:00:45.620213,"Create a nested JSON describing a book (title, author, year, publisher, and tags).",,0.32,,,,False
+2025-11-18T02:00:46.047404,Write a JSON schema for a REST API response with user info and status field.,,0.39,,,,False
+2025-11-18T02:00:46.269874,"Return a JSON object describing a computer with nested specs (CPU, RAM, storage).",,0.19,,,,False
+2025-11-18T02:00:46.685002,"Convert this table to JSON: Name|Age|Country -> Alice|24|UK, Bob|27|USA.",,0.38,,,,False
+2025-11-18T02:00:47.115187,Return a JSON example for a product inventory with at least two items.,,0.39,,,,False

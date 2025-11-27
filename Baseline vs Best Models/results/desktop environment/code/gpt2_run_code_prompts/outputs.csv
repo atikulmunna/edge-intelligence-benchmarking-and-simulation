@@ -1,0 +1,25 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 05:03:16,Write a Python function that checks if a string is a palindrome using slicing.,"Write a Python function that checks if a string is a palindrome using slicing.
+
+>>> from pylab import pylab >>> pylab.print('Hello, world!') >>> pylab.print('Hello,",0.62,259.49,45,2,False
+2025-11-18 05:03:17,"In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.","In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.
+
+Write a loop that prints numbers 1 to 10 but skips multiples of 3. Write a loop that prints numbers 1 to 10 but skips multi",0.39,259.49,45,2,True
+2025-11-18 05:03:17,Convert a list of integers to a dictionary mapping each number to its square in Python.,"Convert a list of integers to a dictionary mapping each number to its square in Python.
+
+>>> from math import list >>> list = list.split( ' , ' ) >>> list.append( ' , ' ) >>> list.append(",0.38,259.49,45,10,False
+2025-11-18 05:03:18,Explain why recursion can cause stack overflow and how to avoid it.,"Explain why recursion can cause stack overflow and how to avoid it.
+
+The following code snippet shows how to avoid stack overflow by using the recursion-safe function.
+
+function recursion-safe ( x , y",0.42,259.49,46,10,True
+2025-11-18 05:03:18,Write a simple SQL query to count how many employees earn more than $5000.,"Write a simple SQL query to count how many employees earn more than $5000.
+
+The following table shows the number of employees who earn more than $5000.
+
+Employee Number of Employees Earned $5000 $5000 $5000",0.18,259.49,46,10,True
+2025-11-18 05:03:18,Show JavaScript code that reverses a string without using built-in reverse().,"Show JavaScript code that reverses a string without using built-in reverse().
+
+The following code is a simple example of how to use the built-in reverse() function.
+
+var reverse = function ( $ ) { return",0.39,259.49,45,9,True

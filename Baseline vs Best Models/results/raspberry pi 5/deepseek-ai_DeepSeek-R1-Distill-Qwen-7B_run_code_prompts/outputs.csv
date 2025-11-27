@@ -1,0 +1,12 @@
+prompt,output,latency_s,correct
+Write a Python function that checks if a string is a palindrome using slicing.,"Write a Python function that checks if a string is a palindrome using slicing.
+Okay, I need to write a Python function that checks",2263.084,False
+"In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.","In C, write a loop that prints numbers 1 to 10 but skips multiples of 3. The loop should use a for loop, and the condition for",2273.615,True
+Convert a list of integers to a dictionary mapping each number to its square in Python.,"Convert a list of integers to a dictionary mapping each number to its square in Python. and if the list is empty, return an empty dictionary.
+
+",2233.98,True
+Explain why recursion can cause stack overflow and how to avoid it.,Explain why recursion can cause stack overflow and how to avoid it. and also explain why recursion is often misunderstood as being less efficient,2221.421,True
+Write a simple SQL query to count how many employees earn more than $5000.,Write a simple SQL query to count how many employees earn more than $5000. The table is called 'employees' and has columns: id,2235.092,True
+Show JavaScript code that reverses a string without using built-in reverse().,"Show JavaScript code that reverses a string without using built-in reverse(). How can I do this?
+
+I need to write a reverse",2216.812,False

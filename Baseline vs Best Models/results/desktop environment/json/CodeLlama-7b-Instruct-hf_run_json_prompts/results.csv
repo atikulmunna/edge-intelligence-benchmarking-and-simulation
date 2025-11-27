@@ -1,0 +1,7 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18T02:02:56.327729,"Return a JSON object representing a student's name, ID, and a list of three course grades.",,1.38,,,,False
+2025-11-18T02:02:57.214688,"Create a nested JSON describing a book (title, author, year, publisher, and tags).","{   ""title"": ""The Catcher in the Rye"",   ""author"": ""J.D. Sal",0.86,,,,True
+2025-11-18T02:02:58.255489,Write a JSON schema for a REST API response with user info and status field.,"{code} {   ""user"": {     ""id"": 1,     ""name"": ""John Doe",1.0,,,,True
+2025-11-18T02:02:59.179265,"Return a JSON object describing a computer with nested specs (CPU, RAM, storage).","{   ""name"": ""MacBook Pro"",   ""specs"": {     ""CPU",0.89,,,,True
+2025-11-18T02:03:00.054609,"Convert this table to JSON: Name|Age|Country -> Alice|24|UK, Bob|27|USA.",{code} Name | Age | Country Alice | 24 | UK Bob | 27 | USA \,0.84,,,,False
+2025-11-18T02:03:01.073860,Return a JSON example for a product inventory with at least two items.,"{   ""inventory"": [     {       ""id"": 1,       ""name"": ""Product",0.98,,,,True

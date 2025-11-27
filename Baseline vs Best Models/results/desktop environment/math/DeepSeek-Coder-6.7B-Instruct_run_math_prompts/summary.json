@@ -1,0 +1,8 @@
+{
+  "model": "deepseek-ai/DeepSeek-Coder-6.7B-Instruct",
+  "domain_file": "math_prompts.json",
+  "total_prompts": 6,
+  "avg_latency_s": 1.04,
+  "accuracy_percent": 100.0,
+  "timestamp": "2025-11-18T03:39:27.199324"
+}

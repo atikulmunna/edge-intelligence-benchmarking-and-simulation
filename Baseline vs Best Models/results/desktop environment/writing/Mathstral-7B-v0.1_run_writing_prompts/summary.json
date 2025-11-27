@@ -1,0 +1,8 @@
+{
+  "model": "mistralai/Mathstral-7B-v0.1",
+  "domain_file": "writing_prompts.json",
+  "total_prompts": 6,
+  "avg_latency_s": 2.76,
+  "accuracy_percent": 100.0,
+  "timestamp": "2025-11-18T03:44:15.365126"
+}

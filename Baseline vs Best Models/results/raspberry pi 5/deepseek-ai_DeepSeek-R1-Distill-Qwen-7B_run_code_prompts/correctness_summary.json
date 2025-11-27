@@ -1,0 +1,20 @@
+{
+  "overall_accuracy": 66.67,
+  "per_category": {
+    "code": {
+      "accuracy_percent": 33.33,
+      "correct": 1,
+      "total": 3
+    },
+    "writing": {
+      "accuracy_percent": 100.0,
+      "correct": 2,
+      "total": 2
+    },
+    "general": {
+      "accuracy_percent": 100.0,
+      "correct": 1,
+      "total": 1
+    }
+  }
+}

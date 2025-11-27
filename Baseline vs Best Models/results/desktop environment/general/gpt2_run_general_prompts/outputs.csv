@@ -1,0 +1,27 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 02:38:05,Explain the process of photosynthesis in simple terms.,"Explain the process of photosynthesis in simple terms.
+
+The process of photosynthesis is a process of photosynthesis that occurs when the photosynthetic material is exposed to sunlight. The photosynthetic material is",0.5,259.49,44,0,True
+2025-11-18 02:38:06,Describe the importance of open-source software.,"Describe the importance of open-source software.
+
+The Open Source Software Foundation (OSF) is a nonprofit organization that promotes open source software. The OSF is a nonprofit organization that promotes open source",0.39,259.49,45,10,True
+2025-11-18 02:38:06,Summarize the causes of World War II in two sentences.,"Summarize the causes of World War II in two sentences.
+
+The first sentence is a summary of the events of the war. The second sentence is a summary of the events of the war.
+
+The second",0.39,259.49,45,10,True
+2025-11-18 02:38:07,List three benefits of daily exercise.,"List three benefits of daily exercise.
+
+1. Exercise is a great way to get your body ready for the next workout.
+
+2. Exercise is a great way to get your body",0.39,259.49,45,10,True
+2025-11-18 02:38:07,Explain why the sky appears blue.,"Explain why the sky appears blue.
+
+The sky is blue because the sky is blue.
+
+The sky is blue because the sky is blue.
+
+The sky is blue because the",0.39,259.49,45,10,True
+2025-11-18 02:38:07,What is the role of machine learning in modern technology?,"What is the role of machine learning in modern technology?
+
+Machine learning is a new field of research that has been around for a long time. It is a new field of research that has been around for a",0.38,259.49,45,10,True

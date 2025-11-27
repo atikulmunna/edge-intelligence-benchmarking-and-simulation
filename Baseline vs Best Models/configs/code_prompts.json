@@ -1,0 +1,8 @@
+[
+  "Write a Python function that checks if a string is a palindrome using slicing.",
+  "In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.",
+  "Convert a list of integers to a dictionary mapping each number to its square in Python.",
+  "Explain why recursion can cause stack overflow and how to avoid it.",
+  "Write a simple SQL query to count how many employees earn more than $5000.",
+  "Show JavaScript code that reverses a string without using built-in reverse()."
+]

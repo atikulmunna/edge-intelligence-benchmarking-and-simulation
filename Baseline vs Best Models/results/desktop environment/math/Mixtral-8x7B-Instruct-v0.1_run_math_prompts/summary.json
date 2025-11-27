@@ -1,0 +1,8 @@
+{
+  "model": "mistralai/Mixtral-8x7B-Instruct-v0.1",
+  "domain_file": "math_prompts.json",
+  "total_prompts": 6,
+  "avg_latency_s": 228.18,
+  "accuracy_percent": 100.0,
+  "timestamp": "2025-11-18T03:35:18.884565"
+}

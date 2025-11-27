@@ -1,0 +1,50 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 03:39:22,Simplify the expression (2x^2 - 3x + 1) + (4x^2 + 2x - 5).,"Simplify the expression (2x^2 - 3x + 1) + (4x^2 + 2x - 5).
+
+
+```python
+from sympy import symbols, simplify
+
+x = symbols('x')
+
+expr = (2*x**2 -",1.52,12864.63,50,100,True
+2025-11-18 03:39:23,Find the derivative of f(x) = x^3 + 2x^2 - 5x + 7.,"Find the derivative of f(x) = x^3 + 2x^2 - 5x + 7.
+
+
+import sympy as sp
+
+x = sp.symbols('x')
+f = x**3 + 2*x**2 -",1.0,12864.63,50,81,True
+2025-11-18 03:39:24,Integrate 2x * cos(x) with respect to x.,"Integrate 2x * cos(x) with respect to x.
+
+
+```python
+import sympy as sp
+
+x = sp.symbols('x')
+f = 2*x*sp.cos",0.96,12864.63,50,52,True
+2025-11-18 03:39:25,"A train travels 60 km/h for 1.5 hours, then 90 km/h for 2 hours. Find total distance.","A train travels 60 km/h for 1.5 hours, then 90 km/h for 2 hours. Find total distance.
+
+
+A: The total distance is the sum of the distances travelled at each speed.
+
+The first part of the journey is 60",1.02,12864.64,51,46,True
+2025-11-18 03:39:26,"If log_a(27)=3 and log_a(9)=2, find a.","If log_a(27)=3 and log_a(9)=2, find a.
+
+
+```python
+import math
+
+# Given values
+log_a_27 = 3
+log_a_9 = 2
+
+",0.89,12864.63,52,79,True
+2025-11-18 03:39:27,Solve for x: 3x + 2 = 17.,"Solve for x: 3x + 2 = 17.
+
+
+#include <iostream>
+
+int main() {
+    int x;
+    x = (17 - 2)",0.85,12864.63,52,52,True

@@ -1,0 +1,8 @@
+{
+  "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+  "prompts_file": "/home/munna/bigboss_baselines/configs/code_prompts.json",
+  "timestamp": 1763385696.2166843,
+  "total_prompts": 6,
+  "correct": 4,
+  "accuracy_percent": 66.67
+}

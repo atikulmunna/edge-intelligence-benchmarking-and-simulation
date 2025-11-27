@@ -1,0 +1,15 @@
+{
+  "overall_accuracy": 100.0,
+  "per_category": {
+    "writing": {
+      "accuracy_percent": 100.0,
+      "correct": 3,
+      "total": 3
+    },
+    "general": {
+      "accuracy_percent": 100.0,
+      "correct": 3,
+      "total": 3
+    }
+  }
+}

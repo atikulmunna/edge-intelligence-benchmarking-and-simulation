@@ -1,0 +1,38 @@
+[
+  {
+    "cpu_percent": 4.9,
+    "ram_percent": 26.6,
+    "swap_percent": 0.0,
+    "timestamp": 1763372251.428966
+  },
+  {
+    "cpu_percent": 16.2,
+    "ram_percent": 23.4,
+    "swap_percent": 13.2,
+    "timestamp": 1763374514.5957696
+  },
+  {
+    "cpu_percent": 16.3,
+    "ram_percent": 21.3,
+    "swap_percent": 13.1,
+    "timestamp": 1763376788.3306925
+  },
+  {
+    "cpu_percent": 13.7,
+    "ram_percent": 21.8,
+    "swap_percent": 13.1,
+    "timestamp": 1763379022.4648004
+  },
+  {
+    "cpu_percent": 13.2,
+    "ram_percent": 21.2,
+    "swap_percent": 13.9,
+    "timestamp": 1763381244.0401106
+  },
+  {
+    "cpu_percent": 13.7,
+    "ram_percent": 23.4,
+    "swap_percent": 14.5,
+    "timestamp": 1763383479.276578
+  }
+]

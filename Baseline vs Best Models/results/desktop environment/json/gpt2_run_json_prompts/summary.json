@@ -1,0 +1,8 @@
+{
+  "model": "gpt2",
+  "domain_file": "json_prompts.json",
+  "total_prompts": 6,
+  "avg_latency_s": 0.37,
+  "accuracy_percent": 0.0,
+  "timestamp": "2025-11-18T02:00:47.116487"
+}

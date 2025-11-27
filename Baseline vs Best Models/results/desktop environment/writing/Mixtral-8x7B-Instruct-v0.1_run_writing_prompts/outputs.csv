@@ -1,0 +1,23 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 03:51:49,Write a short story about a robot realizing it has emotions.,"Write a short story about a robot realizing it has emotions.
+
+Once upon a time, in a world not too far into the future, there was a robot named R-3X1. R-3X",312.33,8562.36,45,39,True
+2025-11-18 03:56:22,Describe a rainy night from the perspective of a streetlight.,"Describe a rainy night from the perspective of a streetlight.
+
+As the sun dipped below the horizon, I flickered to life, casting a warm, yellow glow onto the wet pavement below. The",273.53,8562.36,46,33,True
+2025-11-18 04:00:54,Compose a 3-sentence poem about time running backward.,"Compose a 3-sentence poem about time running backward.
+
+Time's hands reverse, a mirrored dance,
+Regressing steps, a second chance,
+Yesterday's sunrise in",271.82,8562.36,46,24,True
+2025-11-18 04:05:29,Write a motivational paragraph using only metaphors.,"Write a motivational paragraph using only metaphors.
+
+Life is a marathon, not a sprint. You must pace yourself, conserve your energy, and keep your eyes on the horizon. The journey",273.72,8562.36,46,34,True
+2025-11-18 04:10:08,Create a short dialogue between a human and an AI discussing trust.,"Create a short dialogue between a human and an AI discussing trust.
+
+Human: Hi AI, I've been hearing a lot about you lately. People seem to have mixed feelings about trusting you.
+
+",278.99,8562.36,46,13,True
+2025-11-18 04:14:51,Narrate a peaceful morning in a futuristic city.,"Narrate a peaceful morning in a futuristic city.
+
+The sun had barely risen, casting a soft glow over the futuristic city. The streets were quiet, save for the occasional hum of a",282.05,8562.36,45,32,True

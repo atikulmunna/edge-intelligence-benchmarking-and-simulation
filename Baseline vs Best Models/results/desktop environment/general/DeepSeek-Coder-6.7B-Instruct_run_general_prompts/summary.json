@@ -1,0 +1,8 @@
+{
+  "model": "deepseek-ai/DeepSeek-Coder-6.7B-Instruct",
+  "domain_file": "general_prompts.json",
+  "total_prompts": 6,
+  "avg_latency_s": 0.96,
+  "accuracy_percent": 100.0,
+  "timestamp": "2025-11-18T02:40:48.526982"
+}

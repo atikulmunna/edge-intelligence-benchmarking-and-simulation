@@ -1,0 +1,36 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 04:34:13,Write a Python function that checks if a string is a palindrome using slicing.,"Write a Python function that checks if a string is a palindrome using slicing.
+
+def is_palindrome(s):
+    # Remove non-alphanumeric characters and convert to lowercase
+    s = ''.",309.9,8562.36,45,29,True
+2025-11-18 04:38:51,"In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.","In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.
+
+Here is one way to do it:
+
+```c
+#include <stdio.h>
+
+int main() {
+   ",276.53,8562.36,45,33,True
+2025-11-18 04:43:23,Convert a list of integers to a dictionary mapping each number to its square in Python.,"Convert a list of integers to a dictionary mapping each number to its square in Python.
+
+Here's a simple way to do it using a dictionary comprehension:
+
+```python
+def square_dict(numbers):
+",271.86,8562.36,45,31,True
+2025-11-18 04:47:53,Explain why recursion can cause stack overflow and how to avoid it.,"Explain why recursion can cause stack overflow and how to avoid it.
+
+Recursion can cause stack overflow because each recursive call adds a new layer to the call stack. If the number of recursive calls is too",269.72,8562.36,44,28,True
+2025-11-18 04:52:19,Write a simple SQL query to count how many employees earn more than $5000.,"Write a simple SQL query to count how many employees earn more than $5000.
+
+Assuming that the table name is `employees` and the column name for the salary is `salary`.
+
+```sql
+",265.14,8562.36,44,31,True
+2025-11-18 04:57:06,Show JavaScript code that reverses a string without using built-in reverse().,"Show JavaScript code that reverses a string without using built-in reverse().
+
+function reverseString(str) {
+  let reversed = '';
+  for (let i = str.length - 1; i >=",287.6,8562.36,44,24,True

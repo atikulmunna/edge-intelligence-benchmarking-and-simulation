@@ -1,0 +1,8 @@
+{
+  "model": "codellama/CodeLlama-7b-Instruct-hf",
+  "domain_file": "code_prompts.json",
+  "total_prompts": 6,
+  "avg_latency_s": 1.09,
+  "accuracy_percent": 83.33,
+  "timestamp": "2025-11-18T05:02:03.270057"
+}

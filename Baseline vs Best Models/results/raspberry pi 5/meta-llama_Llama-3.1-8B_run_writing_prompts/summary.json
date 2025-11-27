@@ -1,0 +1,8 @@
+{
+  "model": "meta-llama/Llama-3.1-8B",
+  "prompts_file": "/home/munna/bigboss_baselines/configs/writing_prompts.json",
+  "timestamp": 1763326422.9622405,
+  "total_prompts": 6,
+  "correct": 6,
+  "accuracy_percent": 100.0
+}

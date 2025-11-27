@@ -1,0 +1,53 @@
+timestamp,prompt,output,latency_s,gpu_mem_mb,gpu_temp_c,gpu_util_%,correct
+2025-11-18 05:02:46,Write a Python function that checks if a string is a palindrome using slicing.,"Write a Python function that checks if a string is a palindrome using slicing.
+
+
+def is_palindrome(s):
+    return s == s[::-1]
+
+# Test the function
+print(",1.42,12864.63,51,93,True
+2025-11-18 05:02:47,"In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.","In C, write a loop that prints numbers 1 to 10 but skips multiples of 3.
+
+
+```c
+#include <stdio.h>
+
+int main() {
+    for(int i = 1; i <= 1",0.85,12864.63,51,93,True
+2025-11-18 05:02:48,Convert a list of integers to a dictionary mapping each number to its square in Python.,"Convert a list of integers to a dictionary mapping each number to its square in Python.
+
+
+def square_numbers(numbers):
+    return {num: num ** 2 for num in numbers}
+
+numbers =",0.85,12864.63,52,74,True
+2025-11-18 05:02:49,Explain why recursion can cause stack overflow and how to avoid it.,"Explain why recursion can cause stack overflow and how to avoid it.
+
+
+Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem. In recursive functions, the",0.99,12864.63,51,68,True
+2025-11-18 05:02:50,Write a simple SQL query to count how many employees earn more than $5000.,"Write a simple SQL query to count how many employees earn more than $5000.
+
+
+SELECT COUNT(*) FROM employees WHERE salary > 5000;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+",1.05,12864.63,51,75,True
+2025-11-18 05:02:51,Show JavaScript code that reverses a string without using built-in reverse().,"Show JavaScript code that reverses a string without using built-in reverse().
+
+
+function reverseString(str) {
+    let reversed = '';
+    for (let i = str.length - 1; i",1.01,12864.63,51,64,True

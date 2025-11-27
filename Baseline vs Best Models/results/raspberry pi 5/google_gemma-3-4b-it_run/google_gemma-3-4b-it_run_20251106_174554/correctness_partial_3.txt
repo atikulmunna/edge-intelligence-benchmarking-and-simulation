@@ -1,0 +1,11 @@
+=== Correctness Report ===
+File: /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554/outputs.csv
+Total prompts: 3
+Correct responses: 3
+Overall accuracy: 100.0%
+
+Per-category breakdown:
+ - General   : 100.0% (2/2)
+ - Math      : 100.0% (1/1)
+
+✅ Summary saved to: /home/munna/bigboss_baselines/results/google_gemma-3-4b-it_run_20251106_174554/correctness_summary.json
